@@ -1,0 +1,11 @@
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.exe
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.deps.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.runtimeconfig.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.runtimeconfig.dev.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.dll
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\bin\Debug\netcoreapp3.0\CSC440 002.pdb
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\obj\Debug\netcoreapp3.0\CSC440 002.csprojAssemblyReference.cache
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\obj\Debug\netcoreapp3.0\CSC440 002.AssemblyInfoInputs.cache
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\obj\Debug\netcoreapp3.0\CSC440 002.AssemblyInfo.cs
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\obj\Debug\netcoreapp3.0\CSC440 002.dll
+C:\Users\Chris Laptop Supreme\source\repos\CSC440 002\CSC440 002\obj\Debug\netcoreapp3.0\CSC440 002.pdb
