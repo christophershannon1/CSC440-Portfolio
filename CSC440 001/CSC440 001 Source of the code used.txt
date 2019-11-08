@@ -1,0 +1,12 @@
+the original code was gotten from Bob Tabor. His videos where he explains his code can be found in the following link.
+
+https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners
+
+
+
+The output of the code is as follows:
+
+Hello World!
+Hello, LAC25!
+
+
