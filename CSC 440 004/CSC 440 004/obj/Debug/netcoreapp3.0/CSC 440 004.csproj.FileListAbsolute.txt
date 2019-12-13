@@ -1,0 +1,10 @@
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.exe
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.deps.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.runtimeconfig.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.runtimeconfig.dev.json
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.dll
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\bin\Debug\netcoreapp3.0\CSC 440 004.pdb
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\obj\Debug\netcoreapp3.0\CSC 440 004.AssemblyInfoInputs.cache
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\obj\Debug\netcoreapp3.0\CSC 440 004.AssemblyInfo.cs
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\obj\Debug\netcoreapp3.0\CSC 440 004.dll
+C:\Users\Chris Laptop Supreme\source\repos\CSC 440 004\CSC 440 004\obj\Debug\netcoreapp3.0\CSC 440 004.pdb
